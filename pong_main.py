@@ -1,6 +1,6 @@
 import pygame
 import os
-import funс_quit as fq
+import func_quit as fq
 import func_preview as fp
 import rackets as rks
 import ball as bl
